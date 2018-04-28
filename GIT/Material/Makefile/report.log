@@ -1,0 +1,371 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.3.25)  28 MAR 2018 20:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./report.aux
+
+LaTeX Warning: Label `fig:Scatter graph' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count87
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count88
+\nofMParguments=\count89
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count90
+\MPscratchDim=\dimen106
+\MPnumerator=\count91
+\makeMPintoPDFobject=\count92
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package epstopdf Info: Source file: <scatter1.eps>
+(epstopdf)                    date: 2018-03-28 20:19:08
+(epstopdf)                    size: 28561 bytes
+(epstopdf)             Output file: <scatter1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:18:02
+(epstopdf)                    size: 7897 bytes
+(epstopdf)             Command: <repstopdf --outfile=scatter1-eps-converted-to.
+pdf scatter1.eps>
+(epstopdf)             \includegraphics on input line 10.
+runsystem(repstopdf --outfile=scatter1-eps-converted-to.pdf scatter1.eps)...exe
+cuted safely (allowed).
+
+Package epstopdf Info: Result file: <scatter1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:19:17
+(epstopdf)                    size: 7907 bytes.
+<scatter1-eps-converted-to.pdf, id=9, pagebox=cropbox, 361.35pt x 252.945pt>
+File: scatter1-eps-converted-to.pdf Graphic file (type pdf)
+<use scatter1-eps-converted-to.pdf>
+Package pdftex.def Info: scatter1-eps-converted-to.pdf  used on input line 10. 
+on input line 10.
+Package pdftex.def Info: Requested size: 345.0pt x 241.50058pt on input line 10
+.
+ [2
+
+ <./scatter1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <scatter2.eps>
+(epstopdf)                    date: 2018-03-28 20:19:08
+(epstopdf)                    size: 28561 bytes
+(epstopdf)             Output file: <scatter2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:18:03
+(epstopdf)                    size: 8120 bytes
+(epstopdf)             Command: <repstopdf --outfile=scatter2-eps-converted-to.
+pdf scatter2.eps>
+(epstopdf)             \includegraphics on input line 20.
+runsystem(repstopdf --outfile=scatter2-eps-converted-to.pdf scatter2.eps)...exe
+cuted safely (allowed).
+
+Package epstopdf Info: Result file: <scatter2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:19:17
+(epstopdf)                    size: 8126 bytes.
+<scatter2-eps-converted-to.pdf, id=18, pagebox=cropbox, 361.35pt x 252.945pt>
+File: scatter2-eps-converted-to.pdf Graphic file (type pdf)
+<use scatter2-eps-converted-to.pdf>
+Package pdftex.def Info: scatter2-eps-converted-to.pdf  used on input line 20. 
+on input line 20.
+Package pdftex.def Info: Requested size: 345.0pt x 241.50058pt on input line 20
+.
+ [3
+
+ <./scatter2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <scatter3.eps>
+(epstopdf)                    date: 2018-03-28 20:19:08
+(epstopdf)                    size: 28561 bytes
+(epstopdf)             Output file: <scatter3-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:18:03
+(epstopdf)                    size: 9520 bytes
+(epstopdf)             Command: <repstopdf --outfile=scatter3-eps-converted-to.
+pdf scatter3.eps>
+(epstopdf)             \includegraphics on input line 30.
+runsystem(repstopdf --outfile=scatter3-eps-converted-to.pdf scatter3.eps)...exe
+cuted safely (allowed).
+
+Package epstopdf Info: Result file: <scatter3-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:19:17
+(epstopdf)                    size: 9534 bytes.
+<scatter3-eps-converted-to.pdf, id=27, pagebox=cropbox, 361.35pt x 252.945pt>
+File: scatter3-eps-converted-to.pdf Graphic file (type pdf)
+<use scatter3-eps-converted-to.pdf>
+Package pdftex.def Info: scatter3-eps-converted-to.pdf  used on input line 30. 
+on input line 30.
+Package pdftex.def Info: Requested size: 345.0pt x 241.50058pt on input line 30
+.
+ [4
+
+ <./scatter3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <scatter4.eps>
+(epstopdf)                    date: 2018-03-28 20:19:08
+(epstopdf)                    size: 28561 bytes
+(epstopdf)             Output file: <scatter4-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:18:03
+(epstopdf)                    size: 9925 bytes
+(epstopdf)             Command: <repstopdf --outfile=scatter4-eps-converted-to.
+pdf scatter4.eps>
+(epstopdf)             \includegraphics on input line 40.
+runsystem(repstopdf --outfile=scatter4-eps-converted-to.pdf scatter4.eps)...exe
+cuted safely (allowed).
+
+Package epstopdf Info: Result file: <scatter4-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:19:17
+(epstopdf)                    size: 9942 bytes.
+<scatter4-eps-converted-to.pdf, id=36, pagebox=cropbox, 361.35pt x 252.945pt>
+File: scatter4-eps-converted-to.pdf Graphic file (type pdf)
+<use scatter4-eps-converted-to.pdf>
+Package pdftex.def Info: scatter4-eps-converted-to.pdf  used on input line 40. 
+on input line 40.
+Package pdftex.def Info: Requested size: 345.0pt x 241.50058pt on input line 40
+.
+ [5
+
+ <./scatter4-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <scatter5.eps>
+(epstopdf)                    date: 2018-03-28 20:19:08
+(epstopdf)                    size: 28547 bytes
+(epstopdf)             Output file: <scatter5-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:18:03
+(epstopdf)                    size: 9843 bytes
+(epstopdf)             Command: <repstopdf --outfile=scatter5-eps-converted-to.
+pdf scatter5.eps>
+(epstopdf)             \includegraphics on input line 50.
+runsystem(repstopdf --outfile=scatter5-eps-converted-to.pdf scatter5.eps)...exe
+cuted safely (allowed).
+
+Package epstopdf Info: Result file: <scatter5-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:19:18
+(epstopdf)                    size: 9863 bytes.
+<scatter5-eps-converted-to.pdf, id=45, pagebox=cropbox, 361.35pt x 252.945pt>
+File: scatter5-eps-converted-to.pdf Graphic file (type pdf)
+<use scatter5-eps-converted-to.pdf>
+Package pdftex.def Info: scatter5-eps-converted-to.pdf  used on input line 50. 
+on input line 50.
+Package pdftex.def Info: Requested size: 345.0pt x 241.50058pt on input line 50
+.
+ [6
+
+ <./scatter5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <mean.eps>
+(epstopdf)                    date: 2018-03-28 20:19:08
+(epstopdf)                    size: 24528 bytes
+(epstopdf)             Output file: <mean-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:18:04
+(epstopdf)                    size: 7308 bytes
+(epstopdf)             Command: <repstopdf --outfile=mean-eps-converted-to.pdf 
+mean.eps>
+(epstopdf)             \includegraphics on input line 60.
+runsystem(repstopdf --outfile=mean-eps-converted-to.pdf mean.eps)...executed sa
+fely (allowed).
+
+Package epstopdf Info: Result file: <mean-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:19:18
+(epstopdf)                    size: 7306 bytes.
+<mean-eps-converted-to.pdf, id=54, pagebox=cropbox, 361.35pt x 252.945pt>
+File: mean-eps-converted-to.pdf Graphic file (type pdf)
+<use mean-eps-converted-to.pdf>
+Package pdftex.def Info: mean-eps-converted-to.pdf  used on input line 60. on i
+nput line 60.
+Package pdftex.def Info: Requested size: 345.0pt x 241.50058pt on input line 60
+.
+ [7
+
+ <./mean-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <speedup_color.eps>
+(epstopdf)                    date: 2018-03-28 20:19:08
+(epstopdf)                    size: 24050 bytes
+(epstopdf)             Output file: <speedup_color-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:18:04
+(epstopdf)                    size: 13874 bytes
+(epstopdf)             Command: <repstopdf --outfile=speedup_color-eps-converte
+d-to.pdf speedup_color.eps>
+(epstopdf)             \includegraphics on input line 72.
+runsystem(repstopdf --outfile=speedup_color-eps-converted-to.pdf speedup_color.
+eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <speedup_color-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:19:18
+(epstopdf)                    size: 13876 bytes.
+<speedup_color-eps-converted-to.pdf, id=64, pagebox=cropbox, 281.05pt x 208.78p
+t>
+File: speedup_color-eps-converted-to.pdf Graphic file (type pdf)
+<use speedup_color-eps-converted-to.pdf>
+Package pdftex.def Info: speedup_color-eps-converted-to.pdf  used on input line
+ 72. on input line 72.
+Package pdftex.def Info: Requested size: 345.0pt x 256.30087pt on input line 72
+.
+ [8
+
+ <./speedup_color-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <speedup_errorbar.eps>
+(epstopdf)                    date: 2018-03-28 20:19:08
+(epstopdf)                    size: 25515 bytes
+(epstopdf)             Output file: <speedup_errorbar-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:18:04
+(epstopdf)                    size: 15176 bytes
+(epstopdf)             Command: <repstopdf --outfile=speedup_errorbar-eps-conve
+rted-to.pdf speedup_errorbar.eps>
+(epstopdf)             \includegraphics on input line 83.
+runsystem(repstopdf --outfile=speedup_errorbar-eps-converted-to.pdf speedup_err
+orbar.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <speedup_errorbar-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:19:19
+(epstopdf)                    size: 15178 bytes.
+<speedup_errorbar-eps-converted-to.pdf, id=73, pagebox=cropbox, 361.35pt x 252.
+945pt>
+File: speedup_errorbar-eps-converted-to.pdf Graphic file (type pdf)
+<use speedup_errorbar-eps-converted-to.pdf>
+Package pdftex.def Info: speedup_errorbar-eps-converted-to.pdf  used on input l
+ine 83. on input line 83.
+Package pdftex.def Info: Requested size: 345.0pt x 241.50058pt on input line 83
+.
+ [9
+
+ <./speedup_errorbar-eps-converted-to.pdf>] (./report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1477 strings out of 492990
+ 21990 string characters out of 6135005
+ 73983 words of memory out of 5000000
+ 5038 multiletter control sequences out of 15000+600000
+ 6675 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,273b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on report.pdf (9 pages, 103012 bytes).
+PDF statistics:
+ 94 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,91 @@
+\title{Assignment 8}
+\author{Shubham Singh (160674)}
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+\maketitle
+
+\clearpage
+\begin{figure}
+\includegraphics[width=\linewidth]{scatter1.eps}
+\caption{1 Thread}
+\label{fig:Scatter1 graph}
+\end{figure}
+\noindent
+This is a scatter plot of time taken for execution v/s Number of elements passed for for no. of Threads = 1. \\
+X-axis contains the number of elements passed {1000,10000,100000,1000000} and Y-axis displays the time taken correspondingly for 100 executions.
+\clearpage
+
+\begin{figure}
+\includegraphics[width=\linewidth]{scatter2.eps}
+\caption{2 Threads}
+\label{fig:Scatter2 graph}
+\end{figure}
+\noindent
+This is a scatter plot of time taken for execution v/s Number of elements passed for for no. of Threads = 2. \\
+X-axis contains the number of elements passed {1000,10000,100000,1000000} and Y-axis displays the time taken correspondingly for 100 executions.
+\clearpage
+
+\begin{figure}
+\includegraphics[width=\linewidth]{scatter3.eps}
+\caption{4 Threads}
+\label{fig:Scatter3 graph}
+\end{figure}
+\noindent
+This is a scatter plot of time taken for execution v/s Number of elements passed for for no. of Threads = 4. \\
+X-axis contains the number of elements passed {1000,10000,100000,1000000} and Y-axis displays the time taken correspondingly for 100 executions.
+\clearpage
+
+\begin{figure}
+\includegraphics[width=\linewidth]{scatter4.eps}
+\caption{8 Threads}
+\label{fig:Scatter4 graph}
+\end{figure}
+\noindent
+This is a scatter plot of time taken for execution v/s Number of elements passed for for no. of Threads = 8. \\
+X-axis contains the number of elements passed {1000,10000,100000,1000000} and Y-axis displays the time taken correspondingly for 100 executions.
+\clearpage
+
+\begin{figure}
+\includegraphics[width=\linewidth]{scatter5.eps}
+\caption{16 Threads}
+\label{fig:Scatter5 graph}
+\end{figure}
+\noindent
+This is a scatter plot of time taken for execution v/s Number of elements passed for for no. of Threads = 16. \\
+X-axis contains the number of elements passed {1000,10000,100000,1000000} and Y-axis displays the time taken correspondingly for 100 executions.
+\clearpage
+
+\begin{figure}
+\includegraphics[width=\linewidth]{mean.eps}
+\caption{linegraph}
+\label{fig:avg graph}
+\end{figure}
+\noindent
+This is a line graph of average time taken for execution v/s Number of elements. \\
+X-axis holds the number of elements {1000,10000,100000,1000000} and Y-axis displays the time taken correspondingly. \\
+Different lines represent different no. of threads {1,2,4,8,16} as mentioned in the legend.
+
+\clearpage
+
+\begin{figure}
+\includegraphics[width=\linewidth]{speedup_color.eps}
+\caption{Bargraph}
+\label{fig:Scatter graph}
+\end{figure}
+\noindent
+This is a bar graph of average speed for execution w.r.t to the case with 1 thread v/s Number of elements. \\
+X-axis holds the number of elements {1000,10000,100000,1000000} and number of threads {1,2,4,8,16} and Y-axis displays the ratio w.r.t 1 thread.
+
+\clearpage
+
+\begin{figure}
+\includegraphics[width=\linewidth]{speedup_errorbar.eps}
+\caption{bargraph variance}
+\label{fig:Scatter graph}
+\end{figure}
+\noindent
+This is a bar graph of variance in speed of execution w.r.t to the case with 1 thread v/s Number of elements. \\
+X-axis holds the number of elements {1000,10000,100000,1000000} and number of threads {1,2,4,8,16} and Y-axis displays the ratio(speed) w.r.t 1 thread and also its variance.
+
+\end{document}
